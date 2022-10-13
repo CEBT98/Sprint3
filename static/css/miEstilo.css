@@ -1,0 +1,46 @@
+h1 {
+    color: #377ba8;
+    text-align: center;
+    background-color: lightblue;
+}
+
+form {
+    width: 350px;
+    padding: 16px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #ccc;
+}
+
+form input {
+    padding: 3px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+    margin: 8px 10px;
+    display: inline-block;
+}
+
+button {
+    text-align: center;
+    font-weight: bold;
+}
+
+nav ul{
+    display: flex;
+    flex-direction: row;
+}
+
+nav ul li{
+    margin: 8px;
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+}
+
+img{
+    width: 30px;
+}
+
+
